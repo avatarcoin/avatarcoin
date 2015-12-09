@@ -1,0 +1,9 @@
+Building Avatarcoin
+
+See doc/readme-qt.rst for instructions on building Avatarcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Avatarcoin.
+
+See doc/build-*.txt for instructions on building Avatarcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Avatarcoin.
